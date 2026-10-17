@@ -31,6 +31,4 @@ I went through a higher-resolution recording and identified **13 research refere
 
 13. **38:45 — Deming & Noray (2020), *Earnings Dynamics, Changing Job Skills, and STEM Careers*.** [*Quarterly Journal of Economics*](https://doi.org/10.1093/qje/qjaa021). Documents skill change in STEM labor markets before contemporary generative AI; not evidence that LLMs caused those changes.
 
-**A caution about the bigger claim:** Better AI-assisted work, better learning while assisted, retained individual skill, and collective diversity of thinking are different outcomes. They cannot be treated as interchangeable. Several studies here examine short interventions; others describe workplace productivity, pre-LLM pedagogy, or model-generated content. Cranmer's talk is a useful synthesis, but the distinctions matter when citing the underlying evidence.
-
 *This independent source index is not an official bibliography and is not endorsed by Miles Cranmer or the cited authors.*
